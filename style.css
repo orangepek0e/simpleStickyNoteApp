@@ -1,0 +1,10 @@
+.text_edit{
+  width: 500px;
+  height: 300px;
+  resize: none;
+}
+
+#view_text{
+  width:500px;
+  background-color: paleyellow;
+}
